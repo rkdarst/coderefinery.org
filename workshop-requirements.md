@@ -15,7 +15,7 @@ permalink: /workshop-requirements/
   side-by-side for pairwise work
 - The room should preferably have windows, and be ventilated well enough so
   that 20-30 people (and same amount of laptops) will not make it too warm
-- A coffee room (or similar) should be located nearby for the coffee breaks
+- A coffee room, cafe, or similar should be located nearby for the coffee breaks
 - Two overhead projectors are desirable, but if only one is available that will
   work too
 - The projector screen needs to be large, and the resolution of the projector
@@ -32,4 +32,13 @@ including:
 
 - Booking a lecture room
 - Ordering coffee and refreshments
-- Advertise the workshop through local dissemination channels
+- Advertise the workshop through local dissemination channels (we handle registration)
+- If possible, finding advanced users to be helpers.  Or being a helper yourself.  Don't worry,
+  we help the helpers too.
+
+## Misc
+
+An ideal room: tables for group work, dual projectors, room to walk
+around and talk to every seat.
+
+![sample workshop room](/assets/img/sample-workshop-room.jpg "Workshop room")
